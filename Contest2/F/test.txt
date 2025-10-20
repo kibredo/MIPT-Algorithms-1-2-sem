@@ -1,0 +1,22 @@
+1000
+insert 1
+insert 1
+insert 2
+decreaseKey 3 444
+getMin
+decreaseKey 2 1211
+getMin
+insert -11111
+getMin
+extractMin
+getMin
+decreaseKey 2 12121
+getMin
+decreaseKey 3 666
+getMin
+extractMin
+getMin
+insert 432143
+getMin
+decreaseKey 1 44444444
+getMin

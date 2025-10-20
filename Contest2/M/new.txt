@@ -1,0 +1,16 @@
+
+  /*  int test;
+  std::cout << "  \nsumm\n";
+  for(auto el : summ) {
+    std::cout << abs(el) << " ";
+  }
+  std::cout << '\n' << "ans" << '\n';
+  for(auto el : ans) {
+    std::cout << abs(el) << " "; 
+  }
+  std::cout << '\n' << "ans2" << '\n';
+  for(auto el : ans2) {
+    std::cout << abs(el) << " ";
+  }
+  std::cout << std::endl;
+  std::cout << half_size << " " << size - 2 * half_size + 1 << " " << ans.size(); */
