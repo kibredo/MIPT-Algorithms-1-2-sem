@@ -1,8 +1,0 @@
-git status
-git branch first_task
-get clone *link*
-git add .
-git commit
-git log
-git push origin first_task
-git pull
